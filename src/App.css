@@ -1,0 +1,166 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.max{
+  background-image: url(./images/whitewall.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vw;
+  width: 100%;
+}
+
+.logo{
+
+font-family: warsuck;
+font-size: 4em;
+padding-top: 15px;
+padding-left: 14px;
+
+}
+
+
+
+
+.clothing{
+  background: url(./images/front.png);
+  height: 128px;
+  width: 36%;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  margin: 15em 28em;
+
+}
+
+.pic1{
+  background: url(./images/pizza1.jpg);
+  width: 65vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+
+.article{
+  justify-content: space-around;
+  width: 29vw;
+}
+
+.firstblock{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+
+}
+
+.Main{
+  width: 100%;
+ 
+}
+
+.sub{
+  text-align: center;
+  padding-top: 0.5em;
+  font-size: 2.7em;
+}
+
+.liner{
+  height: 0.6em;
+  background-color: red;
+  width: 4em;
+  border-radius: 20px;
+  padding-left: 1.4em;
+}
+
+.holdingliner{
+  padding-left: 9em;
+  padding-top: 0.4em;
+  padding-bottom: 1.4em;
+}
+
+
+
+.know{
+  justify-content: space-around;
+  font-size: 1.4em;
+  font-family: poppins;
+  padding-left: 2%;
+}
+
+.articleholde{
+  padding-left: 9%;
+}
+
+
+
+.pic2{
+  background: url(./images/pizza2.jpg);
+  width: 65vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+
+
+
+.pic3{
+  background: url(./images/pizza3.jpg);
+  width: 65vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+
+.picend{
+  background: url(./images/pizzaend.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+
+
+.Footer{
+  height: 8em;
+  padding-top: 3.8%;
+  background-color: darkslategray;
+}
+
+
+.logobottom{
+  background: url(./images/front.png);
+  height: 4em;
+  width: 20em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-left: 2%;
+}
+
+
+
+.book{
+  width: 2em;
+  height: 3.5vw;
+}
+
+.Footer{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 7px solid black;
+}
+
+.icones{
+ gap: 12px;
+ display: flex;
+ padding-right: 2%;
+}
+
+.redline{
+  width: 100%;
+  height: 3px;
+}
+
+.logocarrier{
+  padding-left: 2%;
+}
